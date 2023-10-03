@@ -61,3 +61,9 @@ pipeline {
                 // Update some JIRA Staus about the build.
         }
     }
+node('workstation') {
+    def x:Integer = 10
+    stage('Test'){
+        sh 'echo ${x}'
+    }
+}
