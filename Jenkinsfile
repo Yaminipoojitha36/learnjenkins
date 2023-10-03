@@ -63,7 +63,9 @@ pipeline {
     }
 node('workstation') {
     def x:Integer = 10
+    env.y=20
     stage('Test'){
-        sh 'echo ${x}'
+        print x
+        sh 'echo y - ${y}'
     }
 }
