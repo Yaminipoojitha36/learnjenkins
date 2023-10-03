@@ -61,13 +61,13 @@ pipeline {
                 // Update some JIRA Staus about the build.
         }
     }
-node('workstation') {
-    def x:Integer = 10
-    env.y=20
+def x:Integer = 10
+env.y=20
+def samplef() {
+   print "XYZ Function"
+}
 
-    def samplef() {
-        print "XYZ Function"
-    }
+node('workstation') {
     stage('Test'){
         print x
         sh 'echo y - ${y}'
