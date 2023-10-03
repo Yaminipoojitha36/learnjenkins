@@ -3,8 +3,12 @@ pipeline {
     agent { node { label 'workstation' } }
 
     environment {
-    TEST_URL ="google.com"
-    SSH = credentials("centos-ssh")
+        TEST_URL ="google.com"
+        SSH = credentials("centos-ssh")
+    }
+
+    options {
+        ansiColor('xterm')
     }
 
     stages {
