@@ -24,6 +24,8 @@ pipeline {
             password(name: 'PASSWORD', defaultValue: 'SECRET', description: 'Enter a password')
         }
 
+        triggers { pollSCM('*/1 * * * * ') }
+
     stages {
         stage('compile') {
             steps {
