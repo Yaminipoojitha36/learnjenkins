@@ -68,9 +68,15 @@ def samplef() {
 }
 
 node('workstation') {
+    if (x>10){
     stage('Test'){
         print x
         sh 'echo y - ${y}'
-        samplef
+        samplef()
     }
+}   else {
+        stage('Test1'){
+        samplef()
+        }
+     }
 }
