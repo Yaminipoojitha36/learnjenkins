@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ceda8c9-efbb-4197-9300-122c001cff9f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1696239910" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="test" />
+                    <option name="lastUsedInstant" value="1695997163" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2W4d2W4BZs8cmdcurgLlOJtEoxt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Poojitha/github repos/learnjenkins",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ceda8c9-efbb-4197-9300-122c001cff9f" name="Changes" comment="" />
+      <created>1695995579405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695995579405</updated>
+    </task>
+    <task id="LOCAL-00001" summary="jenkins">
+      <option name="closed" value="true" />
+      <created>1695995623022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695995623022</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jenkins file">
+      <option name="closed" value="true" />
+      <created>1695996203706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695996203706</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jenkins files">
+      <option name="closed" value="true" />
+      <created>1695996621687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695996621687</updated>
+    </task>
+    <task id="LOCAL-00004" summary="jenkins file">
+      <option name="closed" value="true" />
+      <created>1696232204502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696232204502</updated>
+    </task>
+    <task id="LOCAL-00005" summary="jenkins">
+      <option name="closed" value="true" />
+      <created>1696238503041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696238503041</updated>
+    </task>
+    <task id="LOCAL-00006" summary="jenkin">
+      <option name="closed" value="true" />
+      <created>1696239681043</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696239681043</updated>
+    </task>
+    <task id="LOCAL-00007" summary="jenkins">
+      <option name="closed" value="true" />
+      <created>1696240264128</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696240264128</updated>
+    </task>
+    <task id="LOCAL-00008" summary="jenkin">
+      <option name="closed" value="true" />
+      <created>1696314262149</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696314262149</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jenkin">
+      <option name="closed" value="true" />
+      <created>1696314638820</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696314638820</updated>
+    </task>
+    <task id="LOCAL-00010" summary="jenkin">
+      <option name="closed" value="true" />
+      <created>1696314968732</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696314968732</updated>
+    </task>
+    <task id="LOCAL-00011" summary="jenkin">
+      <option name="closed" value="true" />
+      <created>1696315402999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696315402999</updated>
+    </task>
+    <task id="LOCAL-00012" summary="jenkin">
+      <option name="closed" value="true" />
+      <created>1696321041118</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696321041118</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696321647619</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696321647619</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696322527477</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696322527477</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696323161209</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696323161209</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696323329309</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696323329309</updated>
+    </task>
+    <task id="LOCAL-00017" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696323573049</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696323573049</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696323786008</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696323786008</updated>
+    </task>
+    <task id="LOCAL-00019" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696324517590</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696324517590</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696324684415</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696324684415</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696324843834</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1696324843834</updated>
+    </task>
+    <task id="LOCAL-00022" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696325022665</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1696325022665</updated>
+    </task>
+    <task id="LOCAL-00023" summary="&#10;jenkins">
+      <option name="closed" value="true" />
+      <created>1696325334460</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1696325334460</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jenkins files" />
+    <MESSAGE value="jenkins file" />
+    <MESSAGE value="jenkins" />
+    <MESSAGE value="jenkin" />
+    <MESSAGE value="&#10;jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;jenkins" />
+  </component>
+</project>
